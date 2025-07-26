@@ -1,1 +1,1 @@
-Файл для просмотра анализа: Cohort-marketing-analysis.ipynb
+Файл для просмотра анализа: Cohort-marketing-analysis.ipynb .
